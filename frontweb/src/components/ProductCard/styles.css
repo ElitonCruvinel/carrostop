@@ -1,0 +1,36 @@
+.product-card-1 {
+  background-color: #ededed;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  text-align: center;
+  min-width: 258px;
+}
+
+.card-top-container {
+  padding: 14px 0px 22px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-top-container img {
+  width: 221px;
+  height: 165px;
+}
+
+.card-top-container h6 {
+  font-size: 18px;
+  color: #000000;
+  padding: 8px 0px 14px 0px;
+}
+
+.card-top-container p {
+  font-style: italic;
+  font-size: 14px;
+  font-weight: 400;
+  width: 294px;
+  text-align: left;
+  padding-left: 25px;
+}
+
